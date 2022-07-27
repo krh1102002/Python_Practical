@@ -1,6 +1,3 @@
-# Author: Riddhish V. Lichade
-# username: root_rvl
-
 from sys import stdin
 from datetime import date
 def inlist(): return list(map(int, stdin.readline().strip().split()))
